@@ -1,0 +1,12 @@
+Pages=>
+1.Customer Login
+	a.Home(VEG/NONVEG)
+	b.Cart(ADD)
+	c.Reg/forgrt
+	d.orders
+
+
+
+2.Maneger Login
+	a.home
+	b.
